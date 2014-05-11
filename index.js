@@ -9,7 +9,6 @@ module.exports = function(options) {
 
 	return function(file) {
 		if (path.extname(file) !== options.extension) return through();
-		console.log(file);
 
 		var src = "";
 		return through(write, end);
