@@ -1,6 +1,6 @@
 {
 	"name": "browserify-pegjs",
-	"version": "0.8.0-1",
+	"version": "0.8.0-2",
 	"description": "Browserify v2 plugin for PegJS files.",
 	"main": "index.js",
 	"dependencies": {
