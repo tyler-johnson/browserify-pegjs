@@ -1,10 +1,24 @@
 {
 	"name": "browserify-pegjs",
 	"version": "0.8.0",
-    "description": "Browserify v2 plugin for PegJS files.",
-    "main": "index.js",
-    "dependencies": {
-        "pegjs": "~0.8.0",
-        "through": "~2.3.4"
-    }
+	"description": "Browserify v2 plugin for PegJS files.",
+	"main": "index.js",
+	"dependencies": {
+		"pegjs": "~0.8.0",
+		"through": "~2.3.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/tyler-johnson/browserify-pegjs.git"
+	},
+	"homepage": "https://github.com/tyler-johnson/browserify-pegjs",
+	"keywords": [
+		"pegjs",
+		"browserify",
+		"v2",
+		"js",
+		"plugin",
+		"transform"
+	],
+	"license": "MIT"
 }
